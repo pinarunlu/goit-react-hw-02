@@ -1,0 +1,16 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.descriptionTitle{
+
+  font-size: 30px;
+  font-weight: 700;
+
+}
+.descriptionText{
+  font-size: 20px;
+}
+.description{
+ display: inline-block;
+
+}
